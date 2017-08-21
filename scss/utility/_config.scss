@@ -1,0 +1,36 @@
+////////////////////////////////////////////////////
+// COLOR
+////////////////////////////////////////////////////
+
+// Base color
+$white            : #FFFFFF;
+$black            : #000000;
+
+
+
+////////////////////////////////////////////////////
+// TYPOGRAPHY
+////////////////////////////////////////////////////
+
+//Font weight
+$font-weight: (
+	light       : 300,
+	regular     : 400,
+	medium      : 500,
+	bold        : 700,
+);
+
+//Font size
+$font-size  : (
+	xs  : rem(12),
+	s   : rem(14),
+	m   : rem(16),
+	l   : rem(20),
+	xl  : rem(24),
+	xxl : rem(40),
+);
+
+//Font color
+$font-color__title: #4A4A4A;
+$font-color__subtitle: $font-color__title;
+$font-color__body: #878787;
