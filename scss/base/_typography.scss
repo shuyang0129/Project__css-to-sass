@@ -1,0 +1,14 @@
+#title {
+	font-size: font-size(xxl);
+	font-weight: font-weight(bold);
+	color: $font-color__title;
+	text-align: center;
+	padding: 24px 0;
+}
+
+.body {
+	font-size: font-size(s);
+	font-weight: font-weight(light);
+	color: $font-color__body;
+	line-height: 1.5;
+}

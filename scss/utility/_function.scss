@@ -23,5 +23,5 @@
 ////////////////////////////////////////////////////
 
 @function font-size($size) {
-	@return map-get($font-weight, $size);
+	@return map-get($font-size, $size);
 }
